@@ -159,6 +159,8 @@
 .home-articles h2{
     color: var(--main-bg-color);
     margin: 0 24px;
+    font-size: 22px;
+
 
 }
 
